@@ -1,0 +1,23 @@
+ask 0
+ask 6
+ask 16
+ask 15
+
+ask 13
+
+ask 11
+
+ask 19
+
+ask 6
+
+ask 17
+
+ask 5
+
+ask 11
+
+ask 2
+
+ask 10
+

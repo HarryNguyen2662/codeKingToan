@@ -1,0 +1,15 @@
+gen fio4rj45oBBy6P1i7eMc --type 0 > 6
+gen KM58ITwi3jl2q2BXDV2G --type 1 > 7
+gen 1zX6uX4rpl1343gZy0pi --type 2 > 8
+gen 8m3t4MVZ9cudaw80DlT3 --type 3 > 9
+gen LXbi0dSDQa1Y3x840Wk3 --type 0 > 10
+gen dgtOX0H3pCh3j08MGDZ1 --type 1 > 11
+gen utn5rFrhxTFBYThK5u4s --type 2 > 12
+gen U6P4Wc65uay2IAC6xDw2 --type 3 > 13
+gen m445YlH9aX8sL09WMMmF --type 0 > 14
+gen ssCZUJPsnRjSK27oMNb0 --type 1 > 15
+gen CtHVW4ST6a4TsgEpA8wD --type 2 > 16
+gen 4coxw5gTnd1j9VRbG94H --type 3 > 17
+gen 56N7WV09GTxI3Z8Ny1g2 --type 0 > 18
+gen 1CWi3xsWf516ZKKh62ce --type 1 > 19
+gen sJ300J2gNUI1DntbyBP6 --type 2 > 20
